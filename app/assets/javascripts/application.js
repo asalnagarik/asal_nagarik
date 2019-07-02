@@ -15,4 +15,8 @@
 //= require jquery3
 //= require popper
 //= require bootstrap-sprockets
+//= require agency
+//= require agency.min
+//= require contact_me
+//= require jqBootstrapValidation
 //= require_tree .
