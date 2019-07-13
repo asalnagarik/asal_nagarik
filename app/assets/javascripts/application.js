@@ -12,7 +12,13 @@
 //
 //= require rails-ujs
 //= require turbolinks
-//= require jquery3
+//= require jquery
 //= require popper
 //= require bootstrap-sprockets
+//= require custom
+//= require form
+//= require fullpage.min
+//= require jquery.inview.min
+//= require owl.carousel.min
+//= require scrolloverflow
 //= require_tree .
